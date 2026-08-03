@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Diya2722&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/diya-prajapati-258a27275"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" /></a>
   <a href="https://diyaprajapati-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-2E9EF7?style=flat&logo=netlify" /></a>
 </p>
@@ -47,9 +46,6 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Diya2722&show_icons=true&theme=tokyonight&count_private=true" alt="Diya's GitHub Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diya2722&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya2722&theme=tokyonight" alt="GitHub Streak" />
