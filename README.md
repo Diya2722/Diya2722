@@ -44,9 +44,3 @@
 
 > **Also skilled in:** JDBC • Microservices Architecture • REST APIs • Hibernate/JPA
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya2722&theme=tokyonight" alt="GitHub Streak" />
-</p>
