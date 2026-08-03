@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I'm currently working on **Salon Booking App**
-- 🌱 I'm currently learning **Docker, AI, and building through projects**
+- 🌱 I'm currently learning **Docker, AI**
 - 💼 Open to **Java Full Stack Developer** roles (Full-Time & Internship)
 - 👨‍💻 All my projects: [diyaprajapati-portfolio.netlify.app](https://diyaprajapati-portfolio.netlify.app/)
 - 📫 Reach me at **prajapatidiya3316@gmail.com**
