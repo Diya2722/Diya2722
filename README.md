@@ -43,15 +43,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
 </p>
 
-> **Also skilled in:** JDBC • Microservices Architecture • REST APIs • JPA
-
-<h3 align="left">🚀 Featured Projects</h3>
-
-| Project | Stack | Links |
-|---|---|---|
-| **FinCtrl – Expense Tracker** | MongoDB, Express, React, Node.js, JWT | [Source](https://github.com/Diya2722/FinCtrl_Expense-Tracking-System) • [Live](https://finctrl-expense-tracking-system.vercel.app) |
-| **TaskFlow – Management App** | React, Node.js, Express, MongoDB, Tailwind | [Source](https://github.com/Diya2722/TaskFlow) • [Live](https://task-flow-cyan-seven.vercel.app) |
-| **AI Income Predictor** | Python, Flask, scikit-learn, ML | [Source](https://github.com/Diya2722/AI-Income-Predictor) • [Live](https://ai-income-predictor.onrender.com) |
+> **Also skilled in:** JDBC • Microservices Architecture • REST APIs • Hibernate/JPA
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
@@ -61,8 +53,4 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diya2722&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Diya2722&theme=tokyo-night" alt="activity graph" />
 </p>
